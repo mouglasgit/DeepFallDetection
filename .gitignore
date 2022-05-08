@@ -1,0 +1,7 @@
+*.pyc
+fall_yolo
+*.hdf5
+__pycache__
+.project
+.pydevproject
+
